@@ -19,6 +19,9 @@
 - [Video Capture App](#video-capture-app)
 - [Video MyBriefing App](#mybriefing-App)
 - [Lamborghini Garage](#lamborghini-garage)
+- [EColeta](#ecoleta-app)
+- [MySkills](#myskills-app)
+- [Teams Chat](#teams-chat-app)
 
 
 <br><hr>
@@ -142,3 +145,43 @@
       <img src="https://github.com/carloscazelattojr/lamborghini-garage-rn/blob/main/assets/print1.png" width="200" alt="preview" />
   </a>
 </div>
+
+
+<br><hr> 
+
+### EColeta-App
+ 
+[source code EColeta App](https://github.com/carloscazelattojr/Ecoleta) 
+
+<div align="center">
+  <a href="#">
+      <img src="https://github.com/carlosjunior1983/rocketseat-nvl-01/blob/master/imgs-readme/mobile.png" width="600" alt="preview" />
+ 
+
+  </a>
+</div>
+
+<br><hr> 
+
+### MySkills-App
+ 
+[source code MySkills App](https://github.com/carloscazelattojr/ignite-myskill-rn) 
+
+<div align="center">
+  <a href="#">
+      <img src="https://github.com/carloscazelattojr/ignite-myskill-rn/blob/main/assets/emulador.png" width="200" alt="preview" />
+  </a>
+</div>
+
+<br><hr> 
+
+### Teams-Chat-App
+ 
+[source code MySkills App](https://github.com/carloscazelattojr/ignite-teams-rn) 
+
+<div align="center">
+  <a href="#">
+      <img src="https://github.com/carloscazelattojr/ignite-teams-rn/blob/main/assets/t1.png" width="800" alt="preview" />
+  </a>
+</div>
+
