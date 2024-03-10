@@ -4,11 +4,11 @@
   <h1 align="center">React Native</h1>
 </div>
 <p align="center">
-    Projects developed in React Native
+   List of projects developed in React Native
     <br />
  </p>
 
-## Apps
+## Apps 
 - [Nike-App](#nike-app)
 - [Cook-App](#cook-app)
 - [Foody-App](#foody-app)
