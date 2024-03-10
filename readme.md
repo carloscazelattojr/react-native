@@ -49,7 +49,7 @@
 
 ### Foody-App
  
-[source code food](https://github.com/carloscazelattojr/foody) 
+[source code Foody-App](https://github.com/carloscazelattojr/foody) 
 
 <div align="center">
   <a href="#">
@@ -102,7 +102,7 @@
 
 ### Expensify-App
  
-[source code Expensify-App](https://github.com/carloscazelattojr/expesify-app) 
+[source code Expensify-App](https://github.com/carloscazelattojr/expensify-app) 
 
 <div align="center">
   <a href="#">
