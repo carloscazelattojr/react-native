@@ -9,6 +9,7 @@
  </p>
 
 ## Apps 
+- [Scroll Inifinte](#scroll-infinte)
 - [Nike-App](#nike-app)
 - [Cook-App](#cook-app)
 - [Foody-App](#foody-app)
@@ -23,6 +24,18 @@
 - [MySkills](#myskills-app)
 - [Teams Chat](#teams-chat-app)
 
+
+<br><hr>
+
+### Scroll-Infinite
+
+[source code Scroll Infinite](https://github.com/carloscazelattojr/scroll-infinite) 
+ 
+<div align="center">
+  <a href="#">
+      <img src="https://github.com/carloscazelattojr/scroll-infinite/blob/main/assets/print-app.png" width="800" alt="preview" />
+  </a>
+</div>
 
 <br><hr>
 
