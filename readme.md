@@ -9,7 +9,7 @@
  </p>
 
 ## Apps 
-- [Scroll Inifinte](#scroll-infinte)
+- [Scroll Inifinte](#scroll-infinite)
 - [Nike-App](#nike-app)
 - [Cook-App](#cook-app)
 - [Foody-App](#foody-app)
