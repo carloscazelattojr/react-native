@@ -33,7 +33,7 @@
  
 <div align="center">
   <a href="#">
-      <img src="https://github.com/carloscazelattojr/scroll-infinite/blob/main/assets/print-app.png" width="800" alt="preview" />
+      <img src="https://github.com/carloscazelattojr/scroll-infinite/blob/main/assets/print-app.png" width="200" alt="preview" />
   </a>
 </div>
 
