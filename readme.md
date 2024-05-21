@@ -9,6 +9,7 @@
  </p>
 
 ## Apps 
+- [F1-App](#F1-App)
 - [Navigation with Stack, Tab e Drawer](https://github.com/carloscazelattojr/navigationapp)
 - [Scroll Inifinte](#scroll-infinite)
 - [Nike-App](#nike-app)
@@ -27,6 +28,20 @@
 
 
 <br><hr>
+
+### F1-App
+
+[source code F1](https://github.com/carloscazelattojr/F1) 
+ 
+<div align="center">
+  <a href="#">
+      <img src="https://github.com/carloscazelattojr/F1/blob/main/assets/print1.PNG" width="800" alt="preview" />
+  </a>
+</div>
+
+<br><hr>
+
+
 
 ### Scroll-Infinite
 
